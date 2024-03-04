@@ -6,4 +6,4 @@ a more dynamic and interactive user experience on my website.
 This implementation not only enhances the functionality of the
 website but also provides a more engaging and user-friendly shopping experience.
 
-DEPLOYED LINK:
+DEPLOYED LINK:https://eclectic-starburst-7f0d58.netlify.app/
